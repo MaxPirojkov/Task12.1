@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="But_Ok">OK</string>
+    <string name="But_Clean">ОЧИСТИТЬ</string>
+    <string name="Text_Up">\nОФОРМЛЕНИЕ ПОДПИСКИ</string>
+    <string name="text_Name">Имя пользователя</string>
+    <string name="text_mail">Электронная почта</string>
+</resources>
