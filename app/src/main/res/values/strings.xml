@@ -5,4 +5,5 @@
     <string name="Text_Up">\nОФОРМЛЕНИЕ ПОДПИСКИ</string>
     <string name="text_Name">Имя пользователя</string>
     <string name="text_mail">Электронная почта</string>
+    <string name="text_view_res">"Подписка на рассылку успешно\nоформлена для пользователя\n%1$s на электронный адрес\n%2$s</string>
 </resources>
